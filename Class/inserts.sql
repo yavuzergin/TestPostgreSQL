@@ -11,3 +11,15 @@ INSERT INTO students (student_name, student_surname, class_id)
 VALUES('Mehmet','Bölük','2');
 INSERT INTO students (student_name, student_surname, class_id)
 VALUES('Ahmet','Kulaksız','3');
+INSERT INTO students (student_name, student_surname, class_id)
+VALUES('Rahmi','Bol','1');
+INSERT INTO students (student_name, student_surname, class_id)
+VALUES('Rıza','Başıbüyük','3');
+INSERT INTO students (student_name, student_surname, class_id)
+VALUES('Selahattin','Su','3');
+INSERT INTO students (student_name, student_surname, class_id)
+VALUES('İskender','Küçük','2');
+INSERT INTO students (student_name, student_surname, class_id)
+VALUES('İskender','Büyük','1');
+INSERT INTO students (student_name, student_surname, class_id)
+VALUES('Veli','Ali','2');
