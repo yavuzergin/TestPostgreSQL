@@ -1,2 +1,2 @@
-DELETE * FROM books
+DELETE FROM books
 WHERE author != 'Ekrem';
