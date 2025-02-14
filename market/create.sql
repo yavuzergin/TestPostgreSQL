@@ -19,7 +19,7 @@ CREATE TABLE orders (
 order_id SERIAL PRIMARY KEY,
 customer_id INT NOT NULL,
 product_id INT NOT NULL,
-total_price FLOAT NOT NULL,
+quantity INT NOT NULL,
 FOREIGN KEY (customer_id)
 REFERENCES customers (customer_id)
 FOREIGN KEY (product_id)
