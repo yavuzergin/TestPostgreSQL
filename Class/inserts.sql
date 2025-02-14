@@ -23,3 +23,14 @@ INSERT INTO students (student_name, student_surname, class_id)
 VALUES('İskender','Büyük','1');
 INSERT INTO students (student_name, student_surname, class_id)
 VALUES('Veli','Ali','2');
+
+INSERT INTO lessons (lesson_name)
+VALUES('Matematik');
+INSERT INTO lessons (lesson_name)
+VALUES('Fen Bilgisi');
+INSERT INTO lessons (lesson_name)
+VALUES('Bilişim');
+INSERT INTO lessons (lesson_name)
+VALUES('Hayat Bilgisi');
+INSERT INTO lessons (lesson_name)
+VALUES('Tatlı Su Kaplumbağası Yetiştiriciliği');
